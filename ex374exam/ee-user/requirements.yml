@@ -1,0 +1,4 @@
+---
+collections:
+  - name: rhel-user-1.0.0.tar.gz
+    type: file
