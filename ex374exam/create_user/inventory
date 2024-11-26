@@ -1,2 +1,5 @@
 [dev]
-serverc.lab.example.com
+serverc
+serverd
+[test]
+servera
